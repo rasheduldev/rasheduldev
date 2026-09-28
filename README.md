@@ -4,11 +4,7 @@
   Full-Stack Web Developer | Building Modern & Scalable Web Applications
 </h3>
 
-<p align="center">
-  <a href="https://github.com/rasheduldev">
-    <img src="https://komarev.com/ghpvc/?username=rasheduldev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
+
 
 ---
 

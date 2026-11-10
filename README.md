@@ -1,3 +1,4 @@
+![Rashedul Alam - GitHub Profile Banner](./profile-banner.png)
 <h1 align="center">Hi 👋, I'm Rashedul Alam</h1>
 
 <h3 align="center">
